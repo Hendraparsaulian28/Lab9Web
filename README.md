@@ -206,11 +206,12 @@ nav {
     footer p {
       font-size: 0.8em;
     }
+```
 ## Output
 ![gambar](/img/index.PNG)
 ![gambar](/img/tambah.PNG)
 ![gambar](/img/ubah.PNG)
-```
+
 1. Buatlah repository baru dengan nama Lab9Web.
 2. Kerjakan semua latihan yang diberikan sesuai urutannya.
 3. Screenshot setiap perubahannya.
